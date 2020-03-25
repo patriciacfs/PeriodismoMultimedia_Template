@@ -29,7 +29,7 @@ Univesidad de Granada
 
 
 *  :octocat: (github url) 
-* Spotify y Soundcloud (formato de podcast) 
+* Spotify (formato de podcast) 
 * Sitio Web
 * Twitter
 * Instagram
@@ -57,12 +57,17 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
+Este tipo de proyecto en lo personal me parece interesante ya que las experiencias de las personas nunca son iguales, y siempre tienen algo más que ofrecer por más que un tema se haya discutido. Además, dado a que busca principalmente la creación de una comunidad, permitirá dar una voz a quienes sientan que no la tienen, a la vez que dará apertura a nuevos debates y concientización sobre el tema.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios** 
+* Este proyecto está dirigido a una población milennial y generación z. Esta misma se dividiría por un lado, en personas que han pasado en sí mismas experiencias migratorias, y por otro persibas con un interés y apoyo al tema social planteado. 
+* El objetivo principal de *MI QUERENCIA* es el de crear un sentido de comunidad y pertenencia a sus usuarios, provocando empatía y emotividad a con las historias contadas. A su vez quiere ofrecer a los usuarios que han pasado por la experiencia migratoria un espacio seguro donde hablar de sus experiencias, provocando sensaciones de alivio y seguridad; a los otros usuarios que, si bien no han pasado por la experiencia, apoyan a la comunidad, ofrecer también un ambiente abierto a la reflexión y posterior concientización de la situación.
+* *MI QUERENCIA* busca siempre escuchar y contar las historias de aquellos que sienten que no tienen una plataforma donde exponerla. Por ello, la interacción de los usuarios es vital para este proyecto. Además, siempre ha de estar sujeto al acatado de críticas constructivas que permitirán la mejoría y crecimiento del proyecto.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
-
+*MI QUERENCIA* estará enfocado principalmente a la visualización en dispositivo móvil y ordenador.
+* Spotify 
 (ejemplos/alternativas) 
 * documental interactivo 
 * videojuego 
