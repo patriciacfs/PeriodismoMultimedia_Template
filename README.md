@@ -1,7 +1,5 @@
 ## MI QUERENCIA  
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
-
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
@@ -15,13 +13,13 @@ Univesidad de Granada
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**logotipo** :  ________
+**logotipo** :  el logo de este proyecto deberá ser principalmente tipográfico, simulando una escritura a mano, junto con un logotipo que refleje de forma iconográfica la escencia del proyecto
 
 **Slogan** (frase motivadora/inspiradora): *La búsqueda de nuestra herencia*
 
 **Hashtag** #MiQuerencia #NuestraHerencia
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** Este proyecto tendría una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 2020
 
@@ -33,7 +31,7 @@ Univesidad de Granada
 * Sitio Web
 * Twitter
 * Instagram
-* ChatBot (?)
+* Patreon
 
 
 --- 
@@ -67,11 +65,10 @@ Este tipo de proyecto en lo personal me parece interesante ya que las experienci
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 *MI QUERENCIA* estará enfocado principalmente a la visualización en dispositivo móvil y ordenador.
-* Spotify 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+* Spotify sería la plataforma que distribuiría de forma más masiva el podcast, que es el eje central del proyecto
+* El sitio web funcionaría más como una plataforma documental interactiva que complementa con fotografías, vídeos y otros recursos audiovisuales lo escuchado en los podcasts. Adicional tendrá un espacio estilo foro donde los usuarios podrán compartir sus historias y crear comunidades.
+* Las redes sociales Twitter e Instagram funcionaran como motores de promoción, anunciando los nuevos episodios del podcast. A su vez, serán medios de comunicación e interacción con los seguidores del proyecto. Aquí los usuarios también tendrán la oportunidad de contactar directamente con el equipo de producción del podcast para escuchar sus historias y tenerlas en consideración para futuros episodios.
+* Patreon funcionará como el primer sistema monetario que adoptará el proyecto, ofreciendo a los usuarios que donen una serie de beneficios como la obtención de contenido exclusivo.
 
 
 
