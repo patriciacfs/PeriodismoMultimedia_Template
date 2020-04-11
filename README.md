@@ -26,25 +26,23 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
+* :octocat: (github url) 
 * Spotify (formato de podcast) 
-* Sitio Web
+* Sitio Web (alojado en Wix)
 * Twitter
 * Instagram
-* Patreon
 
 
 --- 
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Metodología de desarrollo: 
+El presente proyecto usa la metodología de diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
-
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+  **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
 * RADIO AMBULANTE ( https://radioambulante.org/ ): Este podcast es la inspiración principal de este proyecto. Relata crónicas de Latinoamérica bajo un punto de vista periodístico. El formato del proyecto en sí, el estilo de relato y edición de los podcasts, el modelo de negocio son un estilo que este proyecto busca alcanzar.
 * LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS ( http://especiales.univision.com/refugiados-alemania/ ): Este proyecto serviría principalmente como inspiración a cómo se podría ver el sitio web, en un formato de webdoc. 
@@ -55,20 +53,19 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** 
+  **Motivación de la propuesta** 
 Este tipo de proyecto en lo personal me parece interesante ya que las experiencias de las personas nunca son iguales, y siempre tienen algo más que ofrecer por más que un tema se haya discutido. Además, dado a que busca principalmente la creación de una comunidad, permitirá dar una voz a quienes sientan que no la tienen, a la vez que dará apertura a nuevos debates y concientización sobre el tema.
 
-**Personas/Usuarios** 
+  **Personas/Usuarios** 
 * Este proyecto está dirigido a una población milennial y generación z. Esta misma se dividiría por un lado, en personas que han pasado en sí mismas experiencias migratorias, y por otro persibas con un interés y apoyo al tema social planteado. 
 * El objetivo principal de *MI QUERENCIA* es el de crear un sentido de comunidad y pertenencia a sus usuarios, provocando empatía y emotividad a con las historias contadas. A su vez quiere ofrecer a los usuarios que han pasado por la experiencia migratoria un espacio seguro donde hablar de sus experiencias, provocando sensaciones de alivio y seguridad; a los otros usuarios que, si bien no han pasado por la experiencia, apoyan a la comunidad, ofrecer también un ambiente abierto a la reflexión y posterior concientización de la situación.
 * *MI QUERENCIA* busca siempre escuchar y contar las historias de aquellos que sienten que no tienen una plataforma donde exponerla. Por ello, la interacción de los usuarios es vital para este proyecto. Además, siempre ha de estar sujeto al acatado de críticas constructivas que permitirán la mejoría y crecimiento del proyecto.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+  **Estilo de narración**  (...indica como se hace uso de los medios)  
 *MI QUERENCIA* estará enfocado principalmente a la visualización en dispositivo móvil y ordenador.
 * Spotify sería la plataforma que distribuiría de forma más masiva el podcast, que es el eje central del proyecto
 * El sitio web funcionaría más como una plataforma documental interactiva que complementa con fotografías, vídeos y otros recursos audiovisuales lo escuchado en los podcasts. Adicional tendrá un espacio estilo foro donde los usuarios podrán compartir sus historias y crear comunidades.
 * Las redes sociales Twitter e Instagram funcionaran como motores de promoción, anunciando los nuevos episodios del podcast. A su vez, serán medios de comunicación e interacción con los seguidores del proyecto. Aquí los usuarios también tendrán la oportunidad de contactar directamente con el equipo de producción del podcast para escuchar sus historias y tenerlas en consideración para futuros episodios.
-* Patreon funcionará como el primer sistema monetario que adoptará el proyecto, ofreciendo a los usuarios que donen una serie de beneficios como la obtención de contenido exclusivo.
 
 
 
@@ -76,13 +73,23 @@ Este tipo de proyecto en lo personal me parece interesante ya que las experienci
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
+* Podcast
+En Spotify, cada episodio publicado tendrá su propio diseño que tendrá la simbología visual más ajustada a la crónica narrada. 
+Este podcast no será una simple narración de un texto, sino que será una creación sonora íntegra que presentará elementos sonoros para crear una experiencia auditiva inmersiva de forma que el usuario cree una imagen visual mental con el apoyo de dichos elementos.
+
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+Mi Querencia querrá apuntar a un estilo de la picaresca colorida que represente la globalidad del proyecto. 
+El sitio web que alojará los contenidos audiovisuales y toda la información general del proyecto sería diseñado con un diseño *scroll down*
+A forma de ilustración, se diseñó de forma básica un boceto del sitio web:https://patriciacfernandezs.wixsite.com/miquerencia
 
-* redes sociales (...) 
+* Redes sociales
+Twitter e Instagram
+Campañas intigras
 
-* publicidad: banner (... ) 
+* Agregadores
 
-* ...
+* Publicidad en otros podcasts
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -90,10 +97,13 @@ Este tipo de proyecto en lo personal me parece interesante ya que las experienci
 
 * Test con usuarios (...) 
 * ... 
+Soundcharts y Chartmetric
 
+Hootsuite y TweetReach
 
+Medidores de SEO integrados en Wix y 
 
-
+Google Trends
 
 ### Conclusiones y trabajo futuro
 
