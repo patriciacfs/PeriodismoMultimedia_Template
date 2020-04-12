@@ -83,27 +83,28 @@ El sitio web que alojará los contenidos audiovisuales y toda la información ge
 A forma de ilustración, se diseñó de forma básica un boceto del sitio web:https://patriciacfernandezs.wixsite.com/miquerencia
 
 * Redes sociales
-Twitter e Instagram
-Campañas intigras
+Twitter e Instagram funcionarán como los principales medios de promoción del proyecto. De esta forma, cuando un episodio esté a punto de ser o ya haya sido publicado, se presentarán breves píldoras e imágenes que se relacionen con el episodio. Adicional, se abrirán encuestas, sesiones de preguntas y respuestas, conversaciones, etc. a motivo de incentivar la participación del público. También se recordará de forma constante a los oyentes que siempre podrán compartir sus historias con el proyecto enviando un MD a cualquiera de las redes o escribiendo en el sitio web.
 
 * Agregadores
+Para extender el alcance del podcast, será importante hacer uso de agregadores de radio.
 
-* Publicidad en otros podcasts
+* Monetización: Donaciones y Promoción/Patrocinio
+Al ser un podcast independiente, se estableceróa un sistema de monetización implementado directamente en el sitio web para que los usuarios que crean en este proyecto puedan también participar en el crecimiento del mismo. También se darán ciertos beneficios y material adicional exclusivo a los donantes dependiendo de la cantidad donada a forma de incentivo.
+Por otro lado, la monetización interna del podcast se podrá a hacer a trabés de patrocinios o promociones en otros podcasts.
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-Soundcharts y Chartmetric
+* Antes de lanzar el podcast, sería bueno presentar la totalidad del proyecto a una empresa (como una estación de radio digital, un periódico o una agencia audiovisual) que pueda apoyar el proyecto. Estas pruebas con ejecutivos permitirán evaluar, medir, editar y replantear elementos del proyecto que puedan mejorarse.
 
-Hootsuite y TweetReach
+* Al ser un podcast, es importante tener en consideración herramientas que midan el alcance de escuchas del mismo. Así, se planteará la monitorización del mismo a través de plataformas como Soundcharts y Chartmetric.
 
-Medidores de SEO integrados en Wix y 
+* Para medir el sitio web se utilizarán los medidores de SEO integrados en Wix, y también se revisarán Google Trends y Google Alerts con el objetivo de mantenerse al tanto también de noticias y tendencias relacionadas directamente al tema tratado y los medios en los que tiene presencia.
 
-Google Trends
+* Por otro lado, Hootsuite y TweetReach funcionarán como los medidores de las redes sociales.
+
 
 ### Conclusiones y trabajo futuro
 
