@@ -26,7 +26,7 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-* :octocat: (github url) 
+* :octocat: (https://github.com/patriciacfs/mi_querencia_proyecto) 
 * Spotify (formato de podcast) 
 * Sitio Web (alojado en Wix)
 * Twitter
@@ -57,12 +57,12 @@ El presente proyecto usa la metodología de diseño de contenidos digitales medi
 Este tipo de proyecto en lo personal me parece interesante ya que las experiencias de las personas nunca son iguales, y siempre tienen algo más que ofrecer por más que un tema se haya discutido. Además, dado a que busca principalmente la creación de una comunidad, permitirá dar una voz a quienes sientan que no la tienen, a la vez que dará apertura a nuevos debates y concientización sobre el tema.
 
   **Personas/Usuarios** 
-* Este proyecto está dirigido a una población milennial y generación z. Esta misma se dividiría por un lado, en personas que han pasado en sí mismas experiencias migratorias, y por otro persibas con un interés y apoyo al tema social planteado. 
+* Este proyecto está dirigido a una población milennial y generación z. Esta misma se dividiría por un lado, en personas que han pasado en sí mismas experiencias migratorias, y por otro personas con un interés y apoyo al tema social planteado. 
 * El objetivo principal de *MI QUERENCIA* es el de crear un sentido de comunidad y pertenencia a sus usuarios, provocando empatía y emotividad a con las historias contadas. A su vez quiere ofrecer a los usuarios que han pasado por la experiencia migratoria un espacio seguro donde hablar de sus experiencias, provocando sensaciones de alivio y seguridad; a los otros usuarios que, si bien no han pasado por la experiencia, apoyan a la comunidad, ofrecer también un ambiente abierto a la reflexión y posterior concientización de la situación.
 * *MI QUERENCIA* busca siempre escuchar y contar las historias de aquellos que sienten que no tienen una plataforma donde exponerla. Por ello, la interacción de los usuarios es vital para este proyecto. Además, siempre ha de estar sujeto al acatado de críticas constructivas que permitirán la mejoría y crecimiento del proyecto.
 
   **Estilo de narración**  (...indica como se hace uso de los medios)  
-*MI QUERENCIA* estará enfocado principalmente a la visualización en dispositivo móvil y ordenador.
+*MI QUERENCIA* estará enfocado principalmente a la reproducción y visualización en dispositivo móvil y ordenador.
 * Spotify sería la plataforma que distribuiría de forma más masiva el podcast, que es el eje central del proyecto
 * El sitio web funcionaría más como una plataforma documental interactiva que complementa con fotografías, vídeos y otros recursos audiovisuales lo escuchado en los podcasts. Adicional tendrá un espacio estilo foro donde los usuarios podrán compartir sus historias y crear comunidades.
 * Las redes sociales Twitter e Instagram funcionaran como motores de promoción, anunciando los nuevos episodios del podcast. A su vez, serán medios de comunicación e interacción con los seguidores del proyecto. Aquí los usuarios también tendrán la oportunidad de contactar directamente con el equipo de producción del podcast para escuchar sus historias y tenerlas en consideración para futuros episodios.
@@ -108,25 +108,15 @@ Por otro lado, la monetización interna del podcast se podrá a hacer a trabés 
 
 ### Conclusiones y trabajo futuro
 
+*Mi Querencia* es un proyecto que, si es bien producido, administrado y constante, tiene las posibilidades de alcanzar éxito. La naturaleza participativa con los usuarios, la creación de comunidad con ellos a través de la empatía con el tema a tratar, el público señalado son elementos de este trabajo que podrán permitir el principal objetivo del proyecto: contar las historias de aquellos que creen no tener voz para la concientización sobre la migración y sus consecuencias. 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+Entre los problemas identificados se puede comentar que el proyecto presentado no disfruta de una temática original, y además existen otros trabajos provenientes de entidades más establecidas en el mundo periodístico y audiovisual, creando un alto grado de competencia.
+Por otro lado, a nivel técnico, en lo que sería la creación del producto sonoro en sí, se ve una dificultad para realmente poner en marcha el proyecto. Esto porque, antes de empezar a subir el podcast, se deberá contar con el material para el primer episodio, pero además tener suficientes historias para llegar a la finalización de una primera temporada.
+Si bien *Mi Querencia* puede empezar como un proyecto de pasión, lo cierto es que lo ideal sería que el mismo se monetizara, teniendo el apoyo financiero suficiente para producir más temporadas y empezar a tener un equipo base.
+
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
-
 
 ----
 
