@@ -44,11 +44,11 @@ El presente proyecto usa la metodología de diseño de contenidos digitales medi
 
   **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* [RADIO AMBULANTE] (https://radioambulante.org/): Este podcast es la inspiración principal de este proyecto. Relata crónicas de Latinoamérica bajo un punto de vista periodístico. El formato del proyecto en sí, el estilo de relato y edición de los podcasts, el modelo de negocio son un estilo que este proyecto busca alcanzar.
-* [LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS] (http://especiales.univision.com/refugiados-alemania/): Este proyecto serviría principalmente como inspiración a cómo se podría ver el sitio web, en un formato de webdoc. 
-* [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO] (https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/): Este proyecto es particularmente interesante por la presentación de las crónicas en formato escrito, presentados como "libros", lo cual podría ser un material complementario a los podcasts, donde aquellas historias que no funcionarían tanto a nivel sonoro, sí son más efectivas a nivel escrito.
-* [VENEZUELA A LA FUGA] (https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194): Esta propuesta hace uso del vídeo, otra aproximación que puede ser de interés para ampliar la transmedialidad que busca el proyecto.
-* [THE NEW ARRIVALS] (https://thenewarrivals.eu/): Este proyecto nos muestra una aproximación aún más periodística que las anteriores, pero lo más interesante que se puede extraer del mismo es el hecho de la colaboración de 4 periódicos de diferentes países europeos, que puede ser un elemento a considerar a la expansión de este proyecto a otros idiomas y públicos de otros países.
+* [RADIO AMBULANTE](https://radioambulante.org/): Este podcast es la inspiración principal de este proyecto. Relata crónicas de Latinoamérica bajo un punto de vista periodístico. El formato del proyecto en sí, el estilo de relato y edición de los podcasts, el modelo de negocio son un estilo que este proyecto busca alcanzar.
+* [LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS](http://especiales.univision.com/refugiados-alemania/): Este proyecto serviría principalmente como inspiración a cómo se podría ver el sitio web, en un formato de webdoc. 
+* [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO](https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/): Este proyecto es particularmente interesante por la presentación de las crónicas en formato escrito, presentados como "libros", lo cual podría ser un material complementario a los podcasts, donde aquellas historias que no funcionarían tanto a nivel sonoro, sí son más efectivas a nivel escrito.
+* [VENEZUELA A LA FUGA](https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194): Esta propuesta hace uso del vídeo, otra aproximación que puede ser de interés para ampliar la transmedialidad que busca el proyecto.
+* [THE NEW ARRIVALS](https://thenewarrivals.eu/): Este proyecto nos muestra una aproximación aún más periodística que las anteriores, pero lo más interesante que se puede extraer del mismo es el hecho de la colaboración de 4 periódicos de diferentes países europeos, que puede ser un elemento a considerar a la expansión de este proyecto a otros idiomas y públicos de otros países.
 
 
 **Necesidad/oportunidad** 
@@ -131,19 +131,21 @@ Artículos y blogs
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 
 Referencias a otros proyectos
-* [RADIO AMBULANTE] (https://radioambulante.org/)
-* [LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS] (http://especiales.univision.com/refugiados-alemania/)
-* [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO] (https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/)
-* [VENEZUELA A LA FUGA] (https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194)
-* [THE NEW ARRIVALS] (https://thenewarrivals.eu/)
+* [RADIO AMBULANTE](https://radioambulante.org/)
+* [LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS](http://especiales.univision.com/refugiados-alemania/)
+* [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO](https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/)
+* [VENEZUELA A LA FUGA](https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194)
+* [THE NEW ARRIVALS](https://thenewarrivals.eu/)
 
 Herramientas
-* [SPOTIFY] (https://www.spotify.com/es/)
-* [WIX] (https://patriciacfernandezs.wixsite.com/miquerencia)
-* [CHARTMETRIC] (https://www.chartmetric.com/)
-* [SOUNDCHART] (https://soundcharts.com/)
-* [TWEETDECK] (https://tweetdeck.twitter.com/)
-* [HOOTSUITE] (https://www.hootsuite.com/)
-* [GOOGLE ALERTS] (https://www.google.com/alerts)
-* [GOOGLE TRENDS] (https://trends.google.es/trends/?geo=ES)
-* [TUNEIN] (https://tunein.com/?lang=es-ES)
+* [SPOTIFY](https://www.spotify.com/es/)
+* [WIX](https://patriciacfernandezs.wixsite.com/miquerencia)
+* [TWITTER](https://twitter.com/home)
+* [INSTAGRAM](https://www.instagram.com/)
+* [CHARTMETRIC](https://www.chartmetric.com/)
+* [SOUNDCHART](https://soundcharts.com/)
+* [TWEETDECK](https://tweetdeck.twitter.com/)
+* [HOOTSUITE](https://www.hootsuite.com/)
+* [GOOGLE ALERTS](https://www.google.com/alerts)
+* [GOOGLE TRENDS](https://trends.google.es/trends/?geo=ES)
+* [TUNEIN](https://tunein.com/?lang=es-ES)
