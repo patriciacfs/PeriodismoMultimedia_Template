@@ -38,17 +38,17 @@ Univesidad de Granada
 ### Metodología
 
 Metodología de desarrollo: 
-El presente proyecto usa la metodología de diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+El presente proyecto usa la metodología de diseño de contenidos digitales mediante estrategia de diseño de Experiencias de Usuario (UX: User eXperiences) 
 
 ### Etapa 1: Ideación de proyecto 
 
   **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* RADIO AMBULANTE ( https://radioambulante.org/ ): Este podcast es la inspiración principal de este proyecto. Relata crónicas de Latinoamérica bajo un punto de vista periodístico. El formato del proyecto en sí, el estilo de relato y edición de los podcasts, el modelo de negocio son un estilo que este proyecto busca alcanzar.
-* LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS ( http://especiales.univision.com/refugiados-alemania/ ): Este proyecto serviría principalmente como inspiración a cómo se podría ver el sitio web, en un formato de webdoc. 
-* DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO ( https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/ ): Este proyecto es particularmente interesante por la presentación de las crónicas en formato escrito, presentados como "libros", lo cual podría ser un material complementario a los podcasts, donde aquellas historias que no funcionarían tanto a nivel sonoro, sí son más efectivas a nivel escrito.
-* VENEZUELA A LA FUGA ( https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194 ): Esta propuesta hace uso del vídeo, otra aproximación que puede ser de interés para ampliar la transmedialidad que busca el proyecto.
-* THE NEW ARRIVALS ( https://thenewarrivals.eu/ : Este proyecto nos muestra una aproximación aún más periodística que las anteriores, pero lo más interesante que se puede extraer del mismo es el hecho de la colaboración de 4 periódicos de diferentes países europeos, que puede ser un elemento a considerar a la expansión de este proyecto a otros idiomas y públicos de otros países.
+* [RADIO AMBULANTE] (https://radioambulante.org/): Este podcast es la inspiración principal de este proyecto. Relata crónicas de Latinoamérica bajo un punto de vista periodístico. El formato del proyecto en sí, el estilo de relato y edición de los podcasts, el modelo de negocio son un estilo que este proyecto busca alcanzar.
+* [LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS] (http://especiales.univision.com/refugiados-alemania/): Este proyecto serviría principalmente como inspiración a cómo se podría ver el sitio web, en un formato de webdoc. 
+* [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO] (https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/): Este proyecto es particularmente interesante por la presentación de las crónicas en formato escrito, presentados como "libros", lo cual podría ser un material complementario a los podcasts, donde aquellas historias que no funcionarían tanto a nivel sonoro, sí son más efectivas a nivel escrito.
+* [VENEZUELA A LA FUGA] (https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194): Esta propuesta hace uso del vídeo, otra aproximación que puede ser de interés para ampliar la transmedialidad que busca el proyecto.
+* [THE NEW ARRIVALS] (https://thenewarrivals.eu/): Este proyecto nos muestra una aproximación aún más periodística que las anteriores, pero lo más interesante que se puede extraer del mismo es el hecho de la colaboración de 4 periódicos de diferentes países europeos, que puede ser un elemento a considerar a la expansión de este proyecto a otros idiomas y públicos de otros países.
 
 
 **Necesidad/oportunidad** 
@@ -86,7 +86,7 @@ A forma de ilustración, se diseñó de forma básica un boceto del sitio web:ht
 Twitter e Instagram funcionarán como los principales medios de promoción del proyecto. De esta forma, cuando un episodio esté a punto de ser o ya haya sido publicado, se presentarán breves píldoras e imágenes que se relacionen con el episodio. Adicional, se abrirán encuestas, sesiones de preguntas y respuestas, conversaciones, etc. a motivo de incentivar la participación del público. También se recordará de forma constante a los oyentes que siempre podrán compartir sus historias con el proyecto enviando un MD a cualquiera de las redes o escribiendo en el sitio web.
 
 * Agregadores
-Para extender el alcance del podcast, será importante hacer uso de agregadores de radio.
+Para extender el alcance del podcast, será importante hacer uso de agregadores de radio como TuneIn.
 
 * Monetización: Donaciones y Promoción/Patrocinio
 Al ser un podcast independiente, se estableceróa un sistema de monetización implementado directamente en el sitio web para que los usuarios que crean en este proyecto puedan también participar en el crecimiento del mismo. También se darán ciertos beneficios y material adicional exclusivo a los donantes dependiendo de la cantidad donada a forma de incentivo.
@@ -114,33 +114,36 @@ Entre los problemas identificados se puede comentar que el proyecto presentado n
 Por otro lado, a nivel técnico, en lo que sería la creación del producto sonoro en sí, se ve una dificultad para realmente poner en marcha el proyecto. Esto porque, antes de empezar a subir el podcast, se deberá contar con el material para el primer episodio, pero además tener suficientes historias para llegar a la finalización de una primera temporada.
 Si bien *Mi Querencia* puede empezar como un proyecto de pasión, lo cierto es que lo ideal sería que el mismo se monetizara, teniendo el apoyo financiero suficiente para producir más temporadas y empezar a tener un equipo base.
 
+*Mi Querencia* es un proyecto que puede ser duradero en el tiempo en tanto consiga una estabilidad. En un panorama globalizado, donde los movimientos migratorios parecen no tener razón para detenerse, por un motivo u otro, permite a este trabajo tener una vasta fuente de historias donde apoyarse, sobretodo si las mismas vienen de los usuarios. También presenta altas posibilidades de expansión, en cuanto se puede plantear la posibilidad de elaborar este proyecto en varios idiomas en un futuro. En otra instancia, el hecho de que se plantee como un proyecto transmedial entre un podcast y un sitio web, permite salidas creativas respecto a la producción, diseño y presentación del material.
 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+De naturaleza colaborativa y digital, *Mi Querencia* disfrutaría de la posibilidad de aceptar trabajar de la mano con medios de comunicación periodísticos, estaciones de radio digital, productoras audiovisuales e incluso fundaciones sin fines de lucro. Se cree que la asociación a este tipo de entidades puede ser viable, y por ende beneficiosa para ambas partes. 
 
 ----
 
 **Referencias y recursos utilizados** :
 
+Artículos y blogs
+* Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models* First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+* Law, E.L.C., Roto, V., Hassenzahl, M., Vermeeren, A., Kort, J. (2009) *Understanding, Scoping and Defining User eXperience: A Survey Approach* Boston, MA, U.S.A.
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+Referencias a otros proyectos
+* [RADIO AMBULANTE] (https://radioambulante.org/)
+* [LA NUEVA TIERRA PROMETIDA: EL ÉXODO SIRIO EN 5 HISTORIAS] (http://especiales.univision.com/refugiados-alemania/)
+* [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO] (https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/)
+* [VENEZUELA A LA FUGA] (https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194)
+* [THE NEW ARRIVALS] (https://thenewarrivals.eu/)
 
-
-
-
-
-
-
-
-
-
-
-
+Herramientas
+* [SPOTIFY] (https://www.spotify.com/es/)
+* [WIX] (https://patriciacfernandezs.wixsite.com/miquerencia)
+* [CHARTMETRIC] (https://www.chartmetric.com/)
+* [SOUNDCHART] (https://soundcharts.com/)
+* [TWEETDECK] (https://tweetdeck.twitter.com/)
+* [HOOTSUITE] (https://www.hootsuite.com/)
+* [GOOGLE ALERTS] (https://www.google.com/alerts)
+* [GOOGLE TRENDS] (https://trends.google.es/trends/?geo=ES)
+* [TUNEIN] (https://tunein.com/?lang=es-ES)
