@@ -25,13 +25,13 @@ Univesidad de Granada
 
 **Medios** (donde se tiene presencia): 
 
-
 * :octocat: (https://github.com/patriciacfs/mi_querencia_proyecto) 
 * Spotify (formato de podcast) 
 * Sitio Web (alojado en Wix)
 * Twitter
 * Instagram
 
+[Presentación](https://drive.google.com/file/d/1KUfj5xTi7ZgE1VH4I8iM4ngvDMiaY4l2/view?usp=sharing)
 [![](https://drive.google.com/file/d/1K_Ovl-lhdBjExO0wqzRvKVdkKaaYvvqa/view?usp=sharing)](https://drive.google.com/file/d/1KUfj5xTi7ZgE1VH4I8iM4ngvDMiaY4l2/view?usp=sharing)
 --- 
 
