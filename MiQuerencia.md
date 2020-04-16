@@ -49,6 +49,7 @@ El presente proyecto usa la metodología de diseño de contenidos digitales medi
 * [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO](https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/): Este proyecto es particularmente interesante por la presentación de las crónicas en formato escrito, presentados como "libros", lo cual podría ser un material complementario a los podcasts, donde aquellas historias que no funcionarían tanto a nivel sonoro, sí son más efectivas a nivel escrito.
 * [VENEZUELA A LA FUGA](https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194): Esta propuesta hace uso del vídeo, otra aproximación que puede ser de interés para ampliar la transmedialidad que busca el proyecto.
 * [THE NEW ARRIVALS](https://thenewarrivals.eu/): Este proyecto nos muestra una aproximación aún más periodística que las anteriores, pero lo más interesante que se puede extraer del mismo es el hecho de la colaboración de 4 periódicos de diferentes países europeos, que puede ser un elemento a considerar a la expansión de este proyecto a otros idiomas y públicos de otros países.
+* [HUMANS OF NEW YORK](https://www.humansofnewyork.com/): Este trabajo es un proyecto que tiene una naturaleza similar a este proyecto y es una inspiración en cuanto al alcance que este tipo de proyecto puede alcanzar y estilo de discurso que se puede plantear.
 
 
 **Necesidad/oportunidad** 
@@ -136,6 +137,7 @@ Referencias a otros proyectos
 * [DE MIGRANTES A REFUGIADOS: EL NUEVO DRAMA CENTROAMERICANO](https://www.univision.com/especial/noticias/america-latina/de-migrantes-a-refugiados-el-nuevo-drama-centroamericano/)
 * [VENEZUELA A LA FUGA](https://www.eltiempo.com/datos/venezuela-a-la-fuga-historias-y-cifras-de-la-crisis-migratoria-189194)
 * [THE NEW ARRIVALS](https://thenewarrivals.eu/)
+* [HUMANS OF NEW YORK](https://www.humansofnewyork.com/)
 
 Herramientas
 * [SPOTIFY](https://www.spotify.com/es/)
